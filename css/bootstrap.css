@@ -240,14 +240,14 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: #89c6cd !important;
   }
   .navbar {
     display: none;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #89c6cd !important;
+    border-top-color: #fff !important;
   }
   .label {
     border: 1px solid #000;
